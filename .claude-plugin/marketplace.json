@@ -1,0 +1,21 @@
+{
+  "name": "the-grounds",
+  "description": "Estate-themed plugins for the gentleman's digital estate",
+  "owner": {
+    "name": "alexshaddy",
+    "url": "https://github.com/alexshaddy"
+  },
+  "plugins": [
+    {
+      "name": "belfry",
+      "description": "Apple Calendar and Reminders integration for Claude Code via EventKit",
+      "version": "0.3.0",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/alexshaddy/belfry.git"
+      },
+      "homepage": "https://github.com/alexshaddy/belfry"
+    }
+  ]
+}
