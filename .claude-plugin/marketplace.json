@@ -20,7 +20,7 @@
     {
       "name": "gazette",
       "description": "AI-powered news intelligence for Claude Code — RSS feeds with LLM summarization",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "category": "productivity",
       "source": {
         "source": "url",
