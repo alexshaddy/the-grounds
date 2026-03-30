@@ -18,7 +18,7 @@ claude plugin install belfry
 
 | Plugin | Description | Version |
 |--------|-------------|---------|
-| [belfry](https://github.com/alexshaddy/belfry) | Apple Calendar and Reminders integration via EventKit — 9 commands, 1 skill, 1 hook | 0.3.0 |
+| [belfry](https://github.com/alexshaddy/belfry) | Apple Calendar and Reminders integration via EventKit — 10 commands, 1 skill, 1 hook | 0.4.0 |
 
 ## How It Works
 
