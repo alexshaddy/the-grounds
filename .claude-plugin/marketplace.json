@@ -16,6 +16,17 @@
         "url": "https://github.com/alexshaddy/belfry.git"
       },
       "homepage": "https://github.com/alexshaddy/belfry"
+    },
+    {
+      "name": "gazette",
+      "description": "AI-powered news intelligence for Claude Code — RSS feeds with LLM summarization",
+      "version": "0.1.0",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/alexshaddy/gazette.git"
+      },
+      "homepage": "https://github.com/alexshaddy/gazette"
     }
   ]
 }
