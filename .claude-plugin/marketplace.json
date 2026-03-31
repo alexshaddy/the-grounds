@@ -49,6 +49,17 @@
         "url": "https://github.com/alexshaddy/steward.git"
       },
       "homepage": "https://github.com/alexshaddy/steward"
+    },
+    {
+      "name": "quartermaster",
+      "description": "Inventory and shopping list management — usage tracking, restock alerts, Apple Reminders sync",
+      "version": "0.1.0",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/alexshaddy/quartermaster.git"
+      },
+      "homepage": "https://github.com/alexshaddy/quartermaster"
     }
   ]
 }
