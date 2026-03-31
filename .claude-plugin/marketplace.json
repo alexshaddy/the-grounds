@@ -38,6 +38,17 @@
         "url": "https://github.com/alexshaddy/sentinel.git"
       },
       "homepage": "https://github.com/alexshaddy/sentinel"
+    },
+    {
+      "name": "steward",
+      "description": "File and desktop organization — rules-based sorting, duplicate detection, stale file cleanup",
+      "version": "0.1.0",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/alexshaddy/steward.git"
+      },
+      "homepage": "https://github.com/alexshaddy/steward"
     }
   ]
 }

@@ -18,7 +18,10 @@ claude plugin install belfry
 
 | Plugin | Description | Version |
 |--------|-------------|---------|
-| [belfry](https://github.com/alexshaddy/belfry) | Apple Calendar and Reminders integration via EventKit — 10 commands, 1 skill, 1 hook | 0.4.0 |
+| [belfry](https://github.com/alexshaddy/belfry) | Apple Calendar and Reminders integration via EventKit — 11 commands, 1 skill, 1 hook | 0.5.0 |
+| [gazette](https://github.com/alexshaddy/gazette) | AI-powered news intelligence — RSS feeds with LLM summarization — 6 commands, 1 skill, 1 hook | 0.1.1 |
+| [sentinel](https://github.com/alexshaddy/sentinel) | System health monitoring — CPU, memory, disk, battery, network, git, Docker — 8 commands, 1 skill, 1 hook | 0.1.0 |
+| [steward](https://github.com/alexshaddy/steward) | File and desktop organization — rules-based sorting, duplicate detection, stale cleanup — 5 commands, 1 skill, 1 hook | 0.1.0 |
 
 ## How It Works
 
