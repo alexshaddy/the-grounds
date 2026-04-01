@@ -71,6 +71,17 @@
         "url": "https://github.com/alexshaddy/courier.git"
       },
       "homepage": "https://github.com/alexshaddy/courier"
+    },
+    {
+      "name": "dispatch",
+      "description": "Slack and Discord integration for Claude Code — read, search, and send messages without leaving the terminal",
+      "version": "0.1.0",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/alexshaddy/dispatch.git"
+      },
+      "homepage": "https://github.com/alexshaddy/dispatch"
     }
   ]
 }
