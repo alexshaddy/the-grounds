@@ -60,6 +60,17 @@
         "url": "https://github.com/alexshaddy/quartermaster.git"
       },
       "homepage": "https://github.com/alexshaddy/quartermaster"
+    },
+    {
+      "name": "courier",
+      "description": "Apple Mail integration — read, compose, and send email without leaving the terminal",
+      "version": "0.1.0",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/alexshaddy/courier.git"
+      },
+      "homepage": "https://github.com/alexshaddy/courier"
     }
   ]
 }
