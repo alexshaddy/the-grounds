@@ -22,6 +22,11 @@ claude plugin install belfry
 | [gazette](https://github.com/alexshaddy/gazette) | AI-powered news intelligence — RSS feeds with LLM summarization — 6 commands, 1 skill, 1 hook | 0.1.1 |
 | [sentinel](https://github.com/alexshaddy/sentinel) | System health monitoring — CPU, memory, disk, battery, network, git, Docker — 8 commands, 1 skill, 1 hook | 0.1.0 |
 | [steward](https://github.com/alexshaddy/steward) | File and desktop organization — rules-based sorting, duplicate detection, stale cleanup — 5 commands, 1 skill, 1 hook | 0.1.0 |
+| [quartermaster](https://github.com/alexshaddy/quartermaster) | Inventory and shopping list management via EventKit — 6 commands, 1 skill, 1 hook | 0.1.0 |
+| [courier](https://github.com/alexshaddy/courier) | Mail.app integration via NSAppleScript — unread counts, flagged messages, recent senders — 1 skill, 1 hook | 0.1.0 |
+| [dispatch](https://github.com/alexshaddy/dispatch) | Slack and Discord integration — unread counts, mentions, DMs — 6 commands, 1 skill, 1 hook | 0.1.0 |
+| [valet](https://github.com/alexshaddy/valet) | Service and subscription management — Keychain presence checks, renewal reminders, status probing — 7 commands, 1 skill, 1 hook | 0.1.0 |
+| [ledger](https://github.com/alexshaddy/ledger) | Personal finance tracking with SQLite — transactions, budgets, recurring, CSV import — 7 commands, 1 skill, 1 hook | 0.1.0 |
 
 ## How It Works
 
