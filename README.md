@@ -27,6 +27,7 @@ claude plugin install belfry
 | [dispatch](https://github.com/alexshaddy/dispatch) | Slack and Discord integration — unread counts, mentions, DMs — 6 commands, 1 skill, 1 hook | 0.1.0 |
 | [valet](https://github.com/alexshaddy/valet) | Service and subscription management — Keychain presence checks, renewal reminders, status probing — 7 commands, 1 skill, 1 hook | 0.1.0 |
 | [ledger](https://github.com/alexshaddy/ledger) | Personal finance tracking with SQLite — transactions, budgets, recurring, CSV import — 7 commands, 1 skill, 1 hook | 0.1.0 |
+| [majordomo](https://github.com/alexshaddy/majordomo) | Project lifecycle tracking — stage gates, backlogs, sprints, incidents, retrospectives, and cross-project insights via SQLite — 9 commands, 1 skill, 3 hooks | 0.1.0 |
 
 ## How It Works
 
