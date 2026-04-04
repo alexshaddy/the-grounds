@@ -9,7 +9,7 @@
     {
       "name": "belfry",
       "description": "Apple Calendar and Reminders integration for Claude Code via EventKit",
-      "version": "0.5.0",
+      "version": "0.5.2",
       "category": "productivity",
       "source": {
         "source": "url",
@@ -20,7 +20,7 @@
     {
       "name": "gazette",
       "description": "AI-powered news intelligence for Claude Code — RSS feeds with LLM summarization",
-      "version": "0.1.1",
+      "version": "0.1.3",
       "category": "productivity",
       "source": {
         "source": "url",
@@ -31,7 +31,7 @@
     {
       "name": "sentinel",
       "description": "System health monitoring — CPU, memory, disk, battery, network, git, Dependabot, Docker",
-      "version": "0.1.0",
+      "version": "0.1.2",
       "category": "productivity",
       "source": {
         "source": "url",
@@ -42,7 +42,7 @@
     {
       "name": "steward",
       "description": "File and desktop organization — rules-based sorting, duplicate detection, stale file cleanup",
-      "version": "0.1.0",
+      "version": "0.1.2",
       "category": "productivity",
       "source": {
         "source": "url",
@@ -53,7 +53,7 @@
     {
       "name": "quartermaster",
       "description": "Inventory and shopping list management — usage tracking, restock alerts, Apple Reminders sync",
-      "version": "0.1.0",
+      "version": "0.1.2",
       "category": "productivity",
       "source": {
         "source": "url",
@@ -64,7 +64,7 @@
     {
       "name": "courier",
       "description": "Apple Mail integration — read, compose, and send email without leaving the terminal",
-      "version": "0.1.0",
+      "version": "0.1.2",
       "category": "productivity",
       "source": {
         "source": "url",
@@ -75,7 +75,7 @@
     {
       "name": "dispatch",
       "description": "Slack and Discord integration for Claude Code — read, search, and send messages without leaving the terminal",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "category": "productivity",
       "source": {
         "source": "url",
@@ -86,7 +86,7 @@
     {
       "name": "ledger",
       "description": "Local-first personal finance tracking for Claude Code — transactions, budgets, recurring expenses, and CSV import",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "category": "productivity",
       "source": {
         "source": "url",
@@ -97,7 +97,7 @@
     {
       "name": "valet",
       "description": "Service and subscription management for Claude Code — track accounts, probe service status, sync Apple Reminders, audit credentials",
-      "version": "0.1.0",
+      "version": "0.1.2",
       "category": "productivity",
       "source": {
         "source": "url",
@@ -108,7 +108,7 @@
     {
       "name": "majordomo",
       "description": "Project lifecycle tracking for Claude Code — stage gates, backlogs, sprints, incidents, retrospectives, and cross-project insights via SQLite",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "category": "productivity",
       "source": {
         "source": "url",

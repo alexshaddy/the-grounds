@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0] — 2026-04-04
+
+### Changed
+- All ten plugin versions updated following Round 3 bugfix pass:
+  belfry 0.5.2, gazette 0.1.3, sentinel 0.1.2, steward 0.1.2, quartermaster 0.1.2,
+  courier 0.1.2, dispatch 0.1.1, valet 0.1.2, ledger 0.1.1, majordomo 0.1.1
+
 ## [1.1.0] - 2026-03-30
 
 ### Added
